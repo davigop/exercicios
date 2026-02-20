@@ -1,4 +1,3 @@
-
     /**
      * OBJETIVO:Crie um algoritmo que peça o nome, a altura e o peso de duas pessoas e
      * apresente o nome da mais pesada e o nome da mais alta.
