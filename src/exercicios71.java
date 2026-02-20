@@ -1,11 +1,11 @@
-void main() {
+
     /**
      * OBJETIVO:Crie um algoritmo que peça o nome, a altura e o peso de duas pessoas e
      * apresente o nome da mais pesada e o nome da mais alta.
      * ENTRADA:nome,altura, peso
      * SAÍDA:nome + pesada e nome + alta
      */
-    void main() {
+    void main ()  {
         String nome;
         String nomeMaisAlto = "";
         String nomeMaisPesado ="";
@@ -35,5 +35,4 @@ void main() {
         }
         System.out.println("Pessoa mais pesada "+ nomeMaisPesado);
         System.out.println("Pessoa mais alta "+ nomeMaisAlto);
-    }
-}
+    }//estou aprendendo git
