@@ -15,7 +15,6 @@ void main() {
             break;
         default:
             System.out.println("Consoante");
-
-
+        break;
     }
 }
