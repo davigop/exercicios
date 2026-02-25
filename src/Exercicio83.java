@@ -22,7 +22,7 @@ void main() {
     switch (operacao){
             //soma
         case 1:
-            System.out.println("Resultado: " + valorA + valorB);
+            System.out.println("Resultado: " + (valorA + valorB));
             break;
             //subtração
         case 2:
@@ -30,11 +30,11 @@ void main() {
             break;
             //divisão
         case 3:
-            System.out.println("Resultado: " + valorA/valorB);
+            System.out.println("Resultado: " + (valorA/valorB));
             break;
             //multiplicação
         case 4:
-            System.out.println("Resultado: " + valorA*valorB);
+            System.out.println("Resultado: " + (valorA*valorB));
             break;
         default:
             System.out.println("Opção inválida!");
