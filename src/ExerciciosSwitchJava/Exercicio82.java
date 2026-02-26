@@ -1,5 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
-
 /**
  * objetivo:Construa um algoritmo que, tendo como dados de entrada o preço de um
  * produto e um código de origem, mostre o preço junto de sua procedência (ex.
