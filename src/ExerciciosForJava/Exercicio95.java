@@ -29,6 +29,6 @@ void main() {
   }
   double mediaAltura = totalAltura / quantidadeAltura;
   double mediaIdade = totalIdade / quantidadeIdade;
-  System.out.println(mediaIdade);
-  System.out.println(mediaAltura);
+  System.out.println("Média idade: " + mediaIdade);
+  System.out.println("Média altura: " + mediaAltura);
 }
