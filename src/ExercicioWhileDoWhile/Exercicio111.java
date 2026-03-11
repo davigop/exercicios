@@ -33,5 +33,4 @@ void main() {
     System.out.println("Menos de 10 vezes: " + (double)(poucoUsado/contador) * 100 + "%");
     System.out.println("Entre 10 e 15 vezes: " + (double)(medioUsado/contador) * 100 + "%");
     System.out.println("Mais de 15 vezes: " + (double)(altoUsado/contador) * 100 + "%");
-
 }
