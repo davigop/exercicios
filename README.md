@@ -1,6 +1,6 @@
 Exercícios de Lógica de Programação - Java
 
-Este repositório contém a resolução de **125 exercícios** práticos desenvolvidos durante o 1º semestre de **Ciência da Computação (IFB)**.
+Este repositório contém a resolução de **125 exercícios** práticos desenvolvidos durante o 1º semestre de Ciência da Computação .
 
 Tecnologias Utilizadas:
 * **Linguagem:** Java ☕
