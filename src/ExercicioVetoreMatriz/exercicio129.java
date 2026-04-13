@@ -27,7 +27,7 @@ void main() {
         vetorN[i] = vetorN[indiceFinal];
         vetorN[indiceFinal] = temporario;
     }
-    //imprimindo vetor atualiazado
+    //imprimindo vetor atualizado
     for (int n : vetorN){
         System.out.println("Vetor N modificado: " + n);
     }
